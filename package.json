@@ -1,0 +1,13 @@
+{
+  "name": "tps-homepage-clone",
+  "version": "1.0.0",
+  "description": "Teen Patti Stars Homepage Clone",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "serve": "python -m http.server 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
